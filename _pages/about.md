@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "about me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## Bio
 
 Berk Atıl is a Software Engineer at TAZI, with research experience in chemical language processing.
