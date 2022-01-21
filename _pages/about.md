@@ -17,7 +17,7 @@ His interests are Machine Learning, Natural Language Processing and Chemical Lan
 ## Education
 
 
-<img align="left" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
+<img align="left" width="130" height="130" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
 
    [Bogazici University](http://boun.edu.tr/), Istanbul, Turkey<br/>
    **BSc. in Computer Engineering**    2016- 2022<br/>
