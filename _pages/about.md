@@ -31,3 +31,8 @@ His interests are Machine Learning, Natural Language Processing and Chemical Lan
    [University of Twente](https://www.utwente.nl/en/), Enschede, The Netherlands<br/>
    **Erasmus Student in Technical Computer Science**    2020- 2020<br/>
  <br/>
+
+
+## Publications
+* Rıza Özçelik, Alperen Bağ, **Berk Atıl**, Arzucan Özgür, Elif Özkırımlı. DebiasedDTA: Model Debiasing to Boost Drug-Target Affinity Prediction. _(Under review)_[[pdf]](https://arxiv.org/pdf/2107.05556.pdf)
+* Thi Kim Nhung Dang, Doina Bucur, **Berk Atil**, Guillaume Pitel, Frank Ruis, Hamidreza Kadkhodaei, Nelly Litvak. Prediction of new outlinks for focused Web crawling. _(Under review)_[[pdf]](https://arxiv.org/pdf/2111.05062.pdf)
