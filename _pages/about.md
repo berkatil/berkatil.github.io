@@ -26,7 +26,7 @@ His interests are Machine Learning, Natural Language Processing and Chemical Lan
    <br/>
    <br/>
 
-<img align="left" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/commons/1/16/University-of-twente-letters.jpg">
+<img align="left" width="130" height="120" src="https://upload.wikimedia.org/wikipedia/commons/1/16/University-of-twente-letters.jpg">
 
    [University of Twente](https://www.utwente.nl/en/), Enschede, The Netherlands<br/>
    **Erasmus Student in Technical Computer Science**    2020- 2020<br/>
