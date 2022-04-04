@@ -12,7 +12,7 @@ redirect_from:
 
 Berk Atıl is a Software Engineer at TAZI, with research experience in chemical language processing.
 
-His interests are Machine Learning, Natural Language Processing and Chemical Language. He got his BSc in Computer Engineering from Bogazici University. 
+His interests are Machine Learning, Natural Language Processing and Chemical Language Processing. He got his BSc in Computer Engineering from Bogazici University. 
 
 ## Education
 
@@ -22,7 +22,7 @@ His interests are Machine Learning, Natural Language Processing and Chemical Lan
    [Bogazici University](http://boun.edu.tr/), Istanbul, Turkey<br/>
    **BSc. in Computer Engineering**    2016- 2022<br/>
    Advisor: [Prof. Arzucan Ozgur](https://www.cmpe.boun.edu.tr/~ozgur/)<br/>
-   *GPA*: 3.6/4.0 *Thesis*: DebiasedDTA: Debiasing Approach for Drug-Target Affinity Prediction
+   *GPA*: 3.61/4.0 *Thesis*: DebiasedDTA: Debiasing Approach for Drug-Target Affinity Prediction
    <br/>
    <br/>
 
@@ -35,4 +35,4 @@ His interests are Machine Learning, Natural Language Processing and Chemical Lan
 
 ## Publications
 * Rıza Özçelik, Alperen Bağ, **Berk Atıl**, Arzucan Özgür, Elif Özkırımlı. DebiasedDTA: Model Debiasing to Boost Drug-Target Affinity Prediction. _(Under review)_[[pdf]](https://arxiv.org/pdf/2107.05556.pdf)
-* Thi Kim Nhung Dang, Doina Bucur, **Berk Atil**, Guillaume Pitel, Frank Ruis, Hamidreza Kadkhodaei, Nelly Litvak. Prediction of new outlinks for focused Web crawling. _(Under review)_[[pdf]](https://arxiv.org/pdf/2111.05062.pdf)
+* Thi Kim Nhung Dang, Doina Bucur, **Berk Atil**, Guillaume Pitel, Frank Ruis, Hamidreza Kadkhodaei, Nelly Litvak. Look back, look around: a systematic analysis of effective predictors for new outlinks in focused Web crawling _(Under review)_[[pdf]](https://arxiv.org/pdf/2111.05062.pdf)
