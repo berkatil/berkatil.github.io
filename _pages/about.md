@@ -10,11 +10,20 @@ redirect_from:
 
 ## Bio
 
-Berk Atıl is a Software Engineer at TAZI, with research experience in chemical language processing.
+Berk Atıl is a PhD student working on Natural Language Processing.
 
 His interests are Machine Learning, Natural Language Processing and Chemical Language Processing. He got his BSc in Computer Engineering from Bogazici University. 
 
 ## Education
+
+<img align="left" width="120" height="120" src="../images/PSU.jpg ">
+
+   [Bogazici University](http://boun.edu.tr/), Istanbul, Turkey<br/>
+   **PhD. in Computer Science and Engineering**    2016- 2022<br/>
+   Advisor: [Prof. Arzucan Ozgur](https://www.cmpe.boun.edu.tr/~ozgur/)<br/>
+   *GPA*: 3.61/4.0 *Thesis*: DebiasedDTA: Debiasing Approach for Drug-Target Affinity Prediction
+   <br/>
+   <br/>
 
 
 <img align="left" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
