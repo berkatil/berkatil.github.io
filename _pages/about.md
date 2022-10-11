@@ -14,6 +14,12 @@ Berk Atıl is a PhD student working on Natural Language Processing and Teaching 
 
 His interests are Machine Learning, Natural Language Processing and Chemical Language Processing. He got his BSc in Computer Engineering from Bogazici University. 
 
+
+## News
+- **[Aug 2022]** Started PhD at Penn State University in Computer Science and Engineering!
+- **[Feb 2022]** Graduated from Bogazici University Computer Engineering with high honors!
+
+  
 ## Education
 
 <img align="left" width="140" height="90" src="../images/PSU.jpg">
