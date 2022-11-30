@@ -49,5 +49,5 @@ His interests are Machine Learning, Natural Language Processing and Chemical Lan
 
 ## Publications
 * Rıza Özçelik, Alperen Bağ, **Berk Atıl**, Melih Barsbey, Arzucan Özgür, Elif Özkırımlı. DebiasedDTA: Improving the Generalizability of Drug-Target Affinity
-Prediction Models. _(Under review)_[[pdf]](https://arxiv.org/pdf/2107.05556.pdf)
-* Thi Kim Nhung Dang, Doina Bucur, **Berk Atil**, Guillaume Pitel, Frank Ruis, Hamidreza Kadkhodaei, Nelly Litvak. Look back, look around: a systematic analysis of effective predictors for new outlinks in focused Web crawling _(Under review)_[[pdf]](https://arxiv.org/pdf/2111.05062.pdf)
+Prediction Models. _(Under review)_ [[pdf]](https://arxiv.org/pdf/2107.05556.pdf)
+* Dang, T. K. N., Bucur, D., **Atil, B.**, Pitel, G., Ruis, F., Kadkhodaei, H., & Litvak, N. (2022). Look back, look around: A systematic analysis of effective predictors for new outlinks in focused Web crawling. _Knowledge-Based Systems_, 110126. [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122012229)
