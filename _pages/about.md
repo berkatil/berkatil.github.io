@@ -16,6 +16,8 @@ His interests are Machine Learning, Natural Language Processing and Chemical Lan
 
 
 ## News
+- **[Nov 2022]** :tada: Our work DebiasedDTA got accepted to RECOMB 2023!
+- **[Nov 2022]** :tada: Our work Look back, look around: A systematic analysis of effective predictors for new outlinks in focused Web crawling (LBLA) got accepted to Knowledge Based Systems!
 - **[Aug 2022]** Started PhD at Penn State University in Computer Science and Engineering!
 - **[Feb 2022]** Graduated from Bogazici University Computer Engineering with high honors!
 
