@@ -10,7 +10,7 @@ redirect_from:
 
 ## Bio
 
-Berk Atıl is a PhD student working on Natural Language Processing and Teaching Assistant at Penn State University.
+Berk Atıl is a PhD student working on Natural Language Processing and Teaching Assistant at Penn State University. If you are interested in the NLP community at Penn State, feel free to check our [website](https://nlp.psu.edu/).
 
 His interests are Machine Learning, Natural Language Processing and Chemical Language Processing. He got his BSc in Computer Engineering from Bogazici University. 
 
