@@ -16,6 +16,8 @@ His interests are Machine Learning, Natural Language Processing and Chemical Lan
 
 
 ## News
+- **[May 2024]** :rocket: I am starting my internship at Comcast AI!
+- **[Mar 2024]** :tada: Our work VerAs got accepted to AIED 2024!
 - **[Nov 2022]** :tada: Our work DebiasedDTA got accepted to RECOMB 2023!
 - **[Nov 2022]** :tada: Our work Look back, look around: A systematic analysis of effective predictors for new outlinks in focused Web crawling (LBLA) got accepted to Knowledge Based Systems!
 - **[Aug 2022]** Started PhD at Penn State University in Computer Science and Engineering!
@@ -50,6 +52,13 @@ His interests are Machine Learning, Natural Language Processing and Chemical Lan
 
 
 ## Publications
-* Rıza Özçelik, Alperen Bağ, **Berk Atıl**, Melih Barsbey, Arzucan Özgür, Elif Özkırımlı. DebiasedDTA: Improving the Generalizability of Drug-Target Affinity
-Prediction Models. _(Under review)_ [[pdf]](https://arxiv.org/pdf/2107.05556.pdf)
+* **Atil, B.**, Karizaki, M. S., & Passonneau, R. J. (2024). VerAs: Verify then Assess STEM Lab Reports. arXiv
+preprint arXiv:2402.05224. [[paper]](https://arxiv.org/abs/2402.05224)
+* Özçelik, R., Bağ, A., **Atil, B.**, Barsbey, M., Özgür, A., & Ozkirimli, E. (2023). A Framework for Improving the
+Generalizability of Drug–Target Affinity Prediction Models. In Research in Computational Molecular Biology:
+27th Annual International Conference, RECOMB 2023, Istanbul, Turkey, April 16–19, 2023, Proceedings (Vol.
+13976, p. 262). Springer Nature. [[paper]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2023.0208)
+* Barsbey, M., Özçelik, R., Bağ, A., **Atil, B.**, Özgür, A., & Ozkirimli, E. (2023). A Computational Software for
+Training Robust Drug–Target Affinity Prediction Models: pydebiaseddta. Journal of Computational Biology,
+30(11), 1240-1245. [[paper]](https://www.liebertpub.com/doi/abs/10.1089/cmb.2023.0194)
 * Dang, T. K. N., Bucur, D., **Atil, B.**, Pitel, G., Ruis, F., Kadkhodaei, H., & Litvak, N. (2022). Look back, look around: A systematic analysis of effective predictors for new outlinks in focused Web crawling. _Knowledge-Based Systems_, 110126. [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705122012229)
