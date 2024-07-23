@@ -52,8 +52,7 @@ His interests are Machine Learning, Natural Language Processing and Chemical Lan
 
 
 ## Publications
-* **Atil, B.**, Karizaki, M. S., & Passonneau, R. J. (2024). VerAs: Verify then Assess STEM Lab Reports. arXiv
-preprint arXiv:2402.05224. [[paper]](https://arxiv.org/abs/2402.05224)
+* **Atil, B.**, Sheikhi Karizaki, M., & J. Passonneau, R. (2024, July). VerAs: Verify Then Assess STEM Lab Reports. In International Conference on Artificial Intelligence in Education (pp. 133-148). Cham: Springer Nature Switzerland. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-64302-6_10)
 * Özçelik, R., Bağ, A., **Atil, B.**, Barsbey, M., Özgür, A., & Ozkirimli, E. (2023). A Framework for Improving the
 Generalizability of Drug–Target Affinity Prediction Models. In Research in Computational Molecular Biology:
 27th Annual International Conference, RECOMB 2023, Istanbul, Turkey, April 16–19, 2023, Proceedings (Vol.
