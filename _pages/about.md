@@ -16,6 +16,10 @@ His interests are Machine Learning, Natural Language Processing and Chemical Lan
 
 
 ## News
+- **[June 2026]** :tada: I have successfully defended my PhD!
+- **[May 2026]** :tada: Our work on toxicity detection is accepted to ACL 2026!
+- **[May 2026]** :tada: Our work on hate speech is accepted to ACL 2026!
+- **[Nov 2025]** :rocket: I have passed my Comprehensive Exam!
 - **[May 2025]** :tada: Our work on ranking of harm by LLMs is accepted to WOAH 2025!
 - **[May 2025]** :rocket: I am starting my internship at USC ISI!
 - **[April 2025]** :tada: Our work on non-deterministic behaviour of AI Systems is on [arXiv](https://arxiv.org/abs/2408.04667)
